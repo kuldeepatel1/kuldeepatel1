@@ -17,7 +17,7 @@
 
 <h2>🏆 Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kuldeepatell1&theme=darkhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kuldeeppatel1&theme=darkhub" />
 </p>
 
 
