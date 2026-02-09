@@ -5,14 +5,23 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldeepatell1&show_icons=true&theme=dark)
+<h2>📊 GitHub Stats</h2>
 
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepatell1&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuldeepatell1&show_icons=true&theme=dark" />
+</p>
 
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=kuldeepatell1&theme=darkhub)
+<h2>🧠 Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepatell1&layout=compact&theme=dark" />
+</p>
+
+<h2>🏆 Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kuldeepatell1&theme=darkhub" />
+</p>
 
 
 ---
