@@ -8,7 +8,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldeepatell1&show_icons=true&theme=dark)
 
-
 ## 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepatell1&layout=compact&theme=dark)
 
