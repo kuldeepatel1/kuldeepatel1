@@ -16,6 +16,14 @@
 </p>
 
 
+## 📊 Activity Overview
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kuldeeppatel1&theme=github-dark)
+
+## 📈 Activity Summary
+![Commits](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Active-blue?style=for-the-badge)
+![Issues](https://img.shields.io/badge/Issues-Tracking-orange?style=for-the-badge)
 
 
 
