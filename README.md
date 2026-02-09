@@ -6,22 +6,20 @@
 ---
 
 <h2>📊 GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuldeepatell1&show_icons=true&theme=dark" />
+  <img src="https://stats-github-readme.vercel.app/api?username=kuldeepatell1&show_icons=true&theme=dark" />
 </p>
 
-<h2>🧠 Top Languages</h2>
-
+<h2>📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepatell1&layout=compact&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepatell1&theme=github-dark" />
 </p>
 
 <h2>🏆 Trophies</h2>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kuldeepatell1&theme=darkhub" />
 </p>
+
 
 
 ---
